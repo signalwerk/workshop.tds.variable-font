@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Variable Font</title>
+
+    <style>
+      @font-face {
+        font-family: "Liner";
+        src: url("LinerVF.woff2") format("woff2-variations");
+        font-weight: 0 1000;
+        font-style: normal;
+      }
+      :root {
+        min-height: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+      .demo {
+        transform: translateY(-10vh);
+      }
+
+      a {
+        color: #fff;
+        text-underline-offset: 0.5em;
+      }
+      a:hover {
+        opacity: 0.5;
+      }
+      html {
+        font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+          monospace;
+        font-weight: 400;
+        font-size: 10px;
+        line-height: 1.3;
+        color: #222;
+        text-align: center;
+        color: #fff;
+      }
+
+      :root {
+        --blue-color--dark: #002f5b;
+
+        background-color: var(--blue-color--dark);
+      }
+
+      .wave {
+        font-family: "Liner", sans-serif;
+        font-size: 25vw;
+        line-height: 1;
+      }
+
+      .wave span {
+        --base-delay: 0.2s;
+        animation: wave infinite;
+        animation-duration: 4s;
+        font-variation-settings: "wght" 0;
+      }
+
+      .wave--timed span:nth-child(2) {
+        animation-delay: calc(var(--base-delay) * 1);
+      }
+
+      .wave--timed span:nth-child(3) {
+        animation-delay: calc(var(--base-delay) * 2);
+      }
+
+      .wave--timed span:nth-child(4) {
+        animation-delay: calc(var(--base-delay) * 3);
+      }
+
+      .wave--timed span:nth-child(5) {
+        animation-delay: calc(var(--base-delay) * 4);
+      }
+
+      .wave--timed span:nth-child(6) {
+        animation-delay: calc(var(--base-delay) * 5);
+      }
+
+      .wave--timed span:nth-child(7) {
+        animation-delay: calc(var(--base-delay) * 6);
+      }
+
+      @keyframes wave {
+        0% {
+          font-variation-settings: "wght" 0;
+        }
+        25% {
+          font-variation-settings: "wght" 0;
+        }
+        50% {
+          font-variation-settings: "wght" 600;
+        }
+        75% {
+          font-variation-settings: "wght" 600;
+        }
+        100% {
+          font-variation-settings: "wght" 0;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="demo">
+      <div class="wave wave--timed">
+        <span>&nbsp;</span><span>H</span><span>H</span><span> </span
+        ><span>H</span><span>H</span><span>&nbsp;</span>
+      </div>
+
+      <p>
+        Workshop held by
+        <a href="http://www.renanrosatti.com/" target="_blank" rel="noreferrer"
+          >Renan Rosatti</a
+        >
+        ❧&nbsp;<a
+          href="http://www.typo-online.ch/tds/2023/"
+          target="_blank"
+          rel="noreferrer"
+          >«Tag&nbsp;der&nbsp;Schrift&nbsp;2023»</a
+        >
+        ❦&nbsp;experiment&nbsp;by&nbsp;<a
+          href="https://signalwerk.ch/"
+          target="_blank"
+          rel="noreferrer"
+          >Stefan&nbsp;Huber</a
+        >
+      </p>
+    </div>
+  </body>
+</html>

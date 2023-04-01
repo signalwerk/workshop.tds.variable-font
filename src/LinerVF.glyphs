@@ -1,0 +1,1492 @@
+{
+.appVersion = "3151";
+.formatVersion = 3;
+DisplayStrings = (
+H,
+"/line_01_empty",
+"/line_01_fill"
+);
+axes = (
+{
+name = Weight;
+tag = wght;
+}
+);
+date = "2023-03-31 12:42:07 +0000";
+familyName = Liner;
+fontMaster = (
+{
+axesValues = (
+0
+);
+id = m01;
+metricValues = (
+{
+over = 16;
+pos = 800;
+},
+{
+over = -16;
+},
+{
+over = -16;
+pos = -200;
+},
+{
+},
+{
+}
+);
+name = start;
+},
+{
+axesValues = (
+1000
+);
+id = "4A33146F-88BA-4182-B882-C5D1015E8A17";
+metricValues = (
+{
+pos = 800;
+},
+{
+},
+{
+pos = -200;
+},
+{
+pos = 700;
+},
+{
+pos = 500;
+}
+);
+name = end;
+}
+);
+glyphs = (
+{
+glyphname = H;
+lastChange = "2023-03-31 13:38:03 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (120,0);
+ref = line_01_fill;
+scale = (0.1,0.1);
+},
+{
+pos = (120,60);
+ref = line_01_fill;
+scale = (0.1,0.1);
+},
+{
+pos = (120,120);
+ref = line_01_fill;
+scale = (0.1,0.1);
+},
+{
+pos = (120,180);
+ref = line_01_fill;
+scale = (0.1,0.1);
+},
+{
+pos = (120,240);
+ref = line_01_fill;
+scale = (0.1,0.1);
+},
+{
+pos = (120,300);
+ref = line_01_fill;
+scale = (0.1,0.1);
+},
+{
+pos = (120,360);
+ref = line_01_fill;
+scale = (0.1,0.1);
+},
+{
+pos = (120,420);
+ref = line_01_fill;
+scale = (0.1,0.1);
+},
+{
+pos = (180,0);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (180,60);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (180,120);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (180,180);
+ref = line_01_fill;
+scale = (0.1,0.1);
+},
+{
+pos = (180,240);
+ref = line_01_fill;
+scale = (0.1,0.1);
+},
+{
+pos = (180,300);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (180,360);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (180,420);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (240,0);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (240,60);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (240,120);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (240,180);
+ref = line_01_fill;
+scale = (0.1,0.1);
+},
+{
+pos = (240,240);
+ref = line_01_fill;
+scale = (0.1,0.1);
+},
+{
+pos = (240,300);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (240,360);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (240,420);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (300,0);
+ref = line_01_fill;
+scale = (0.1,0.1);
+},
+{
+pos = (300,60);
+ref = line_01_fill;
+scale = (0.1,0.1);
+},
+{
+pos = (300,120);
+ref = line_01_fill;
+scale = (0.1,0.1);
+},
+{
+pos = (300,180);
+ref = line_01_fill;
+scale = (0.1,0.1);
+},
+{
+pos = (300,240);
+ref = line_01_fill;
+scale = (0.1,0.1);
+},
+{
+pos = (300,300);
+ref = line_01_fill;
+scale = (0.1,0.1);
+},
+{
+pos = (300,360);
+ref = line_01_fill;
+scale = (0.1,0.1);
+},
+{
+pos = (300,420);
+ref = line_01_fill;
+scale = (0.1,0.1);
+},
+{
+pos = (360,0);
+ref = line_01_fill;
+scale = (0.1,0.1);
+},
+{
+pos = (360,60);
+ref = line_01_fill;
+scale = (0.1,0.1);
+},
+{
+pos = (360,120);
+ref = line_01_fill;
+scale = (0.1,0.1);
+},
+{
+pos = (360,180);
+ref = line_01_fill;
+scale = (0.1,0.1);
+},
+{
+pos = (360,240);
+ref = line_01_fill;
+scale = (0.1,0.1);
+},
+{
+pos = (360,300);
+ref = line_01_fill;
+scale = (0.1,0.1);
+},
+{
+pos = (360,360);
+ref = line_01_fill;
+scale = (0.1,0.1);
+},
+{
+pos = (360,420);
+ref = line_01_fill;
+scale = (0.1,0.1);
+},
+{
+pos = (60,0);
+ref = line_01_fill;
+scale = (0.1,0.1);
+},
+{
+pos = (60,60);
+ref = line_01_fill;
+scale = (0.1,0.1);
+},
+{
+pos = (60,120);
+ref = line_01_fill;
+scale = (0.1,0.1);
+},
+{
+pos = (60,180);
+ref = line_01_fill;
+scale = (0.1,0.1);
+},
+{
+pos = (60,240);
+ref = line_01_fill;
+scale = (0.1,0.1);
+},
+{
+pos = (60,300);
+ref = line_01_fill;
+scale = (0.1,0.1);
+},
+{
+pos = (60,360);
+ref = line_01_fill;
+scale = (0.1,0.1);
+},
+{
+pos = (60,420);
+ref = line_01_fill;
+scale = (0.1,0.1);
+},
+{
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (0,60);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (0,120);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (0,180);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (0,240);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (0,300);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (0,360);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (0,420);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (420,0);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (420,60);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (420,120);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (420,180);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (420,240);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (420,300);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (420,360);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (420,420);
+ref = line_01_empty;
+scale = (0.1,0.1);
+}
+);
+width = 480;
+},
+{
+layerId = "4A33146F-88BA-4182-B882-C5D1015E8A17";
+shapes = (
+{
+pos = (120,0);
+ref = line_01_fill;
+scale = (0.1,0.1);
+},
+{
+pos = (120,60);
+ref = line_01_fill;
+scale = (0.1,0.1);
+},
+{
+pos = (120,120);
+ref = line_01_fill;
+scale = (0.1,0.1);
+},
+{
+pos = (120,180);
+ref = line_01_fill;
+scale = (0.1,0.1);
+},
+{
+pos = (120,240);
+ref = line_01_fill;
+scale = (0.1,0.1);
+},
+{
+pos = (120,300);
+ref = line_01_fill;
+scale = (0.1,0.1);
+},
+{
+pos = (120,360);
+ref = line_01_fill;
+scale = (0.1,0.1);
+},
+{
+pos = (120,420);
+ref = line_01_fill;
+scale = (0.1,0.1);
+},
+{
+pos = (180,0);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (180,60);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (180,120);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (180,180);
+ref = line_01_fill;
+scale = (0.1,0.1);
+},
+{
+pos = (180,240);
+ref = line_01_fill;
+scale = (0.1,0.1);
+},
+{
+pos = (180,300);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (180,360);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (180,420);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (240,0);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (240,60);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (240,120);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (240,180);
+ref = line_01_fill;
+scale = (0.1,0.1);
+},
+{
+pos = (240,240);
+ref = line_01_fill;
+scale = (0.1,0.1);
+},
+{
+pos = (240,300);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (240,360);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (240,420);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (300,0);
+ref = line_01_fill;
+scale = (0.1,0.1);
+},
+{
+pos = (300,60);
+ref = line_01_fill;
+scale = (0.1,0.1);
+},
+{
+pos = (300,120);
+ref = line_01_fill;
+scale = (0.1,0.1);
+},
+{
+pos = (300,180);
+ref = line_01_fill;
+scale = (0.1,0.1);
+},
+{
+pos = (300,240);
+ref = line_01_fill;
+scale = (0.1,0.1);
+},
+{
+pos = (300,300);
+ref = line_01_fill;
+scale = (0.1,0.1);
+},
+{
+pos = (300,360);
+ref = line_01_fill;
+scale = (0.1,0.1);
+},
+{
+pos = (300,420);
+ref = line_01_fill;
+scale = (0.1,0.1);
+},
+{
+pos = (360,0);
+ref = line_01_fill;
+scale = (0.1,0.1);
+},
+{
+pos = (360,60);
+ref = line_01_fill;
+scale = (0.1,0.1);
+},
+{
+pos = (360,120);
+ref = line_01_fill;
+scale = (0.1,0.1);
+},
+{
+pos = (360,180);
+ref = line_01_fill;
+scale = (0.1,0.1);
+},
+{
+pos = (360,240);
+ref = line_01_fill;
+scale = (0.1,0.1);
+},
+{
+pos = (360,300);
+ref = line_01_fill;
+scale = (0.1,0.1);
+},
+{
+pos = (360,360);
+ref = line_01_fill;
+scale = (0.1,0.1);
+},
+{
+pos = (360,420);
+ref = line_01_fill;
+scale = (0.1,0.1);
+},
+{
+pos = (60,0);
+ref = line_01_fill;
+scale = (0.1,0.1);
+},
+{
+pos = (60,60);
+ref = line_01_fill;
+scale = (0.1,0.1);
+},
+{
+pos = (60,120);
+ref = line_01_fill;
+scale = (0.1,0.1);
+},
+{
+pos = (60,180);
+ref = line_01_fill;
+scale = (0.1,0.1);
+},
+{
+pos = (60,240);
+ref = line_01_fill;
+scale = (0.1,0.1);
+},
+{
+pos = (60,300);
+ref = line_01_fill;
+scale = (0.1,0.1);
+},
+{
+pos = (60,360);
+ref = line_01_fill;
+scale = (0.1,0.1);
+},
+{
+pos = (60,420);
+ref = line_01_fill;
+scale = (0.1,0.1);
+},
+{
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (0,60);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (0,120);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (0,180);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (0,240);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (0,300);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (0,360);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (0,420);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (420,0);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (420,60);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (420,120);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (420,180);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (420,240);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (420,300);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (420,360);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (420,420);
+ref = line_01_empty;
+scale = (0.1,0.1);
+}
+);
+width = 480;
+}
+);
+unicode = 72;
+},
+{
+glyphname = space;
+lastChange = "2023-03-31 13:44:50 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (120,0);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (120,60);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (120,120);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (120,180);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (120,240);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (120,300);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (120,360);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (120,420);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (180,0);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (180,60);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (180,120);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (180,180);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (180,240);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (180,300);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (180,360);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (180,420);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (240,0);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (240,60);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (240,120);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (240,180);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (240,240);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (240,300);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (240,360);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (240,420);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (300,0);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (300,60);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (300,120);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (300,180);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (300,240);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (300,300);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (300,360);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (300,420);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (360,0);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (360,60);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (360,120);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (360,180);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (360,240);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (360,300);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (360,360);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (360,420);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (60,0);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (60,60);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (60,120);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (60,180);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (60,240);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (60,300);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (60,360);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (60,420);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (0,60);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (0,120);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (0,180);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (0,240);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (0,300);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (0,360);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (0,420);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (420,0);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (420,60);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (420,120);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (420,180);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (420,240);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (420,300);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (420,360);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (420,420);
+ref = line_01_empty;
+scale = (0.1,0.1);
+}
+);
+width = 480;
+},
+{
+layerId = "4A33146F-88BA-4182-B882-C5D1015E8A17";
+shapes = (
+{
+pos = (120,0);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (120,60);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (120,120);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (120,180);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (120,240);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (120,300);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (120,360);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (120,420);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (180,0);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (180,60);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (180,120);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (180,180);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (180,240);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (180,300);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (180,360);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (180,420);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (240,0);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (240,60);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (240,120);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (240,180);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (240,240);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (240,300);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (240,360);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (240,420);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (300,0);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (300,60);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (300,120);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (300,180);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (300,240);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (300,300);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (300,360);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (300,420);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (360,0);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (360,60);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (360,120);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (360,180);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (360,240);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (360,300);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (360,360);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (360,420);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (60,0);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (60,60);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (60,120);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (60,180);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (60,240);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (60,300);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (60,360);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (60,420);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (0,60);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (0,120);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (0,180);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (0,240);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (0,300);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (0,360);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (0,420);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (420,0);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (420,60);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (420,120);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (420,180);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (420,240);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (420,300);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (420,360);
+ref = line_01_empty;
+scale = (0.1,0.1);
+},
+{
+pos = (420,420);
+ref = line_01_empty;
+scale = (0.1,0.1);
+}
+);
+width = 480;
+}
+);
+unicode = 32;
+},
+{
+export = 0;
+glyphname = line_01_empty;
+lastChange = "2023-03-31 13:42:13 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(0,305,l),
+(0,295,l),
+(0,285,l),
+(600,285,l),
+(600,295,l),
+(600,305,l),
+(600,315,l),
+(0,315,l)
+);
+}
+);
+width = 600;
+},
+{
+layerId = "4A33146F-88BA-4182-B882-C5D1015E8A17";
+shapes = (
+{
+closed = 1;
+nodes = (
+(0,305,l),
+(0,295,l),
+(0,285,l),
+(600,285,l),
+(600,295,l),
+(600,305,l),
+(600,315,l),
+(0,315,l)
+);
+}
+);
+width = 600;
+}
+);
+},
+{
+export = 0;
+glyphname = line_01_fill;
+lastChange = "2023-03-31 13:42:13 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(0,305,l),
+(0,295,l),
+(0,285,l),
+(600,285,l),
+(600,295,l),
+(600,305,l),
+(600,315,l),
+(0,315,l)
+);
+}
+);
+width = 600;
+},
+{
+layerId = "4A33146F-88BA-4182-B882-C5D1015E8A17";
+shapes = (
+{
+closed = 1;
+nodes = (
+(0,312,l),
+(0,288,l),
+(0,0,l),
+(600,0,l),
+(600,288,l),
+(600,312,l),
+(600,600,l),
+(0,600,l)
+);
+}
+);
+width = 600;
+}
+);
+}
+);
+metrics = (
+{
+type = ascender;
+},
+{
+type = baseline;
+},
+{
+type = descender;
+},
+{
+type = "cap height";
+},
+{
+type = "x-height";
+}
+);
+unitsPerEm = 1000;
+versionMajor = 1;
+versionMinor = 0;
+}
